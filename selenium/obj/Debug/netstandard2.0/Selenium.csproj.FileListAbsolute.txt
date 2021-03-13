@@ -1,0 +1,14 @@
+C:\projeto\selenium\bin\Debug\netstandard2.0\Selenium.deps.json
+C:\projeto\selenium\bin\Debug\netstandard2.0\Selenium.dll
+C:\projeto\selenium\bin\Debug\netstandard2.0\Selenium.pdb
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.csprojAssemblyReference.cache
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.AssemblyInfoInputs.cache
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.AssemblyInfo.cs
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.csproj.CoreCompileInputs.cache
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.dll
+C:\projeto\selenium\obj\Debug\netstandard2.0\Selenium.pdb
+c:\projeto\selenium\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+c:\projeto\selenium\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+c:\projeto\selenium\bin\Debug\netstandard2.0\nunit.engine.dll
+c:\projeto\selenium\bin\Debug\netstandard2.0\nunit.engine.api.dll
+c:\projeto\selenium\bin\Debug\netstandard2.0\Mono.Cecil.dll
